@@ -38,7 +38,7 @@ amazon-clone/
 
 ### Products Section
 
-![Amazon Clone 2](images/Amazon%20Clone3.png)
+![Amazon Clone 2](images/Amazon%20Clone.png)
 
 ### Footer
 

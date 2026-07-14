@@ -32,14 +32,17 @@ amazon-clone/
 
 ## Preview
 
-Add screenshots of your project here.
+### Homepage
 
-Example:
+![Amazon Clone 1](images/Amazon%20Clone1.png)
 
-```
-images/homepage.png
-```
+### Products Section
 
+![Amazon Clone 2](images/Amazon%20Clone3.png)
+
+### Footer
+
+![Amazon Clone 3](images/Amazon%20Clone2.png)
 ## Learning Outcomes
 
 Through this project, I practiced:
